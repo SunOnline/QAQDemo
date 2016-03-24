@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  person.m
 //  SunDemo
 //
 //  Created by students on 16/3/24.
 //  Copyright © 2016年 students. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "person.h"
 
-@interface ViewController : UIViewController
+@implementation person
 
- 
 @end
-
